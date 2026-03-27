@@ -1,10 +1,10 @@
-Start testing: Mar 27 19:20 MSK
+Start testing: Mar 27 19:23 MSK
 ----------------------------------------------------------
 1/53 Testing: Constructor.Default
 1/53 Test: Constructor.Default
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.Default" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Constructor.Default" start time: Mar 27 19:20 MSK
+"Constructor.Default" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -20,10 +20,10 @@ Note: Google Test filter = Constructor.Default
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"Constructor.Default" end time: Mar 27 19:20 MSK
+"Constructor.Default" end time: Mar 27 19:23 MSK
 "Constructor.Default" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/53 Test: Constructor.FromInt
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromInt" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Constructor.FromInt" start time: Mar 27 19:20 MSK
+"Constructor.FromInt" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = Constructor.FromInt
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Constructor.FromInt" end time: Mar 27 19:20 MSK
+"Constructor.FromInt" end time: Mar 27 19:23 MSK
 "Constructor.FromInt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/53 Test: Constructor.FromLongLong
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromLongLong" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Constructor.FromLongLong" start time: Mar 27 19:20 MSK
+"Constructor.FromLongLong" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = Constructor.FromLongLong
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Constructor.FromLongLong" end time: Mar 27 19:20 MSK
+"Constructor.FromLongLong" end time: Mar 27 19:23 MSK
 "Constructor.FromLongLong" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/53 Test: Constructor.FromString
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromString" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Constructor.FromString" start time: Mar 27 19:20 MSK
+"Constructor.FromString" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = Constructor.FromString
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Constructor.FromString" end time: Mar 27 19:20 MSK
+"Constructor.FromString" end time: Mar 27 19:23 MSK
 "Constructor.FromString" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/53 Test: Constructor.Copy
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.Copy" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Constructor.Copy" start time: Mar 27 19:20 MSK
+"Constructor.Copy" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = Constructor.Copy
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Constructor.Copy" end time: Mar 27 19:20 MSK
+"Constructor.Copy" end time: Mar 27 19:23 MSK
 "Constructor.Copy" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/53 Test: Comparison.Equal
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.Equal" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.Equal" start time: Mar 27 19:20 MSK
+"Comparison.Equal" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = Comparison.Equal
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.Equal" end time: Mar 27 19:20 MSK
+"Comparison.Equal" end time: Mar 27 19:23 MSK
 "Comparison.Equal" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/53 Test: Comparison.NotEqual
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.NotEqual" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.NotEqual" start time: Mar 27 19:20 MSK
+"Comparison.NotEqual" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = Comparison.NotEqual
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.NotEqual" end time: Mar 27 19:20 MSK
+"Comparison.NotEqual" end time: Mar 27 19:23 MSK
 "Comparison.NotEqual" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/53 Test: Comparison.LessThan
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.LessThan" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.LessThan" start time: Mar 27 19:20 MSK
+"Comparison.LessThan" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,7 +212,7 @@ Note: Google Test filter = Comparison.LessThan
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.LessThan" end time: Mar 27 19:20 MSK
+"Comparison.LessThan" end time: Mar 27 19:23 MSK
 "Comparison.LessThan" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/53 Test: Comparison.GreaterThan
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.GreaterThan" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.GreaterThan" start time: Mar 27 19:20 MSK
+"Comparison.GreaterThan" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -239,7 +239,7 @@ Note: Google Test filter = Comparison.GreaterThan
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.GreaterThan" end time: Mar 27 19:20 MSK
+"Comparison.GreaterThan" end time: Mar 27 19:23 MSK
 "Comparison.GreaterThan" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/53 Test: Comparison.LessOrEqual
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.LessOrEqual" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.LessOrEqual" start time: Mar 27 19:20 MSK
+"Comparison.LessOrEqual" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -266,7 +266,7 @@ Note: Google Test filter = Comparison.LessOrEqual
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.LessOrEqual" end time: Mar 27 19:20 MSK
+"Comparison.LessOrEqual" end time: Mar 27 19:23 MSK
 "Comparison.LessOrEqual" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,7 +274,7 @@ Test Passed.
 11/53 Test: Comparison.GreaterOrEqual
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.GreaterOrEqual" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.GreaterOrEqual" start time: Mar 27 19:20 MSK
+"Comparison.GreaterOrEqual" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -293,7 +293,7 @@ Note: Google Test filter = Comparison.GreaterOrEqual
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.GreaterOrEqual" end time: Mar 27 19:20 MSK
+"Comparison.GreaterOrEqual" end time: Mar 27 19:23 MSK
 "Comparison.GreaterOrEqual" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -301,7 +301,7 @@ Test Passed.
 12/53 Test: Comparison.DifferentLengths
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.DifferentLengths" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Comparison.DifferentLengths" start time: Mar 27 19:20 MSK
+"Comparison.DifferentLengths" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -320,7 +320,7 @@ Note: Google Test filter = Comparison.DifferentLengths
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Comparison.DifferentLengths" end time: Mar 27 19:20 MSK
+"Comparison.DifferentLengths" end time: Mar 27 19:23 MSK
 "Comparison.DifferentLengths" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -328,7 +328,7 @@ Test Passed.
 13/53 Test: Addition.BasicPositive
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.BasicPositive" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Addition.BasicPositive" start time: Mar 27 19:20 MSK
+"Addition.BasicPositive" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -347,7 +347,7 @@ Note: Google Test filter = Addition.BasicPositive
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Addition.BasicPositive" end time: Mar 27 19:20 MSK
+"Addition.BasicPositive" end time: Mar 27 19:23 MSK
 "Addition.BasicPositive" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -355,7 +355,7 @@ Test Passed.
 14/53 Test: Addition.WithNegatives
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.WithNegatives" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Addition.WithNegatives" start time: Mar 27 19:20 MSK
+"Addition.WithNegatives" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -374,7 +374,7 @@ Note: Google Test filter = Addition.WithNegatives
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Addition.WithNegatives" end time: Mar 27 19:20 MSK
+"Addition.WithNegatives" end time: Mar 27 19:23 MSK
 "Addition.WithNegatives" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -382,7 +382,7 @@ Test Passed.
 15/53 Test: Addition.Large
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.Large" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Addition.Large" start time: Mar 27 19:20 MSK
+"Addition.Large" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -401,7 +401,7 @@ Note: Google Test filter = Addition.Large
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Addition.Large" end time: Mar 27 19:20 MSK
+"Addition.Large" end time: Mar 27 19:23 MSK
 "Addition.Large" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,7 +409,7 @@ Test Passed.
 16/53 Test: Addition.CompoundAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.CompoundAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Addition.CompoundAssignment" start time: Mar 27 19:20 MSK
+"Addition.CompoundAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -428,7 +428,7 @@ Note: Google Test filter = Addition.CompoundAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Addition.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Addition.CompoundAssignment" end time: Mar 27 19:23 MSK
 "Addition.CompoundAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -436,7 +436,7 @@ Test Passed.
 17/53 Test: Subtraction.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Subtraction.Basic" start time: Mar 27 19:20 MSK
+"Subtraction.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -455,7 +455,7 @@ Note: Google Test filter = Subtraction.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Subtraction.Basic" end time: Mar 27 19:20 MSK
+"Subtraction.Basic" end time: Mar 27 19:23 MSK
 "Subtraction.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -463,7 +463,7 @@ Test Passed.
 18/53 Test: Subtraction.WithNegatives
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.WithNegatives" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Subtraction.WithNegatives" start time: Mar 27 19:20 MSK
+"Subtraction.WithNegatives" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -482,7 +482,7 @@ Note: Google Test filter = Subtraction.WithNegatives
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Subtraction.WithNegatives" end time: Mar 27 19:20 MSK
+"Subtraction.WithNegatives" end time: Mar 27 19:23 MSK
 "Subtraction.WithNegatives" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -490,7 +490,7 @@ Test Passed.
 19/53 Test: Subtraction.Large
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.Large" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Subtraction.Large" start time: Mar 27 19:20 MSK
+"Subtraction.Large" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -509,7 +509,7 @@ Note: Google Test filter = Subtraction.Large
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Subtraction.Large" end time: Mar 27 19:20 MSK
+"Subtraction.Large" end time: Mar 27 19:23 MSK
 "Subtraction.Large" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -517,7 +517,7 @@ Test Passed.
 20/53 Test: Subtraction.CompoundAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.CompoundAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Subtraction.CompoundAssignment" start time: Mar 27 19:20 MSK
+"Subtraction.CompoundAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -536,7 +536,7 @@ Note: Google Test filter = Subtraction.CompoundAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Subtraction.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Subtraction.CompoundAssignment" end time: Mar 27 19:23 MSK
 "Subtraction.CompoundAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -544,7 +544,7 @@ Test Passed.
 21/53 Test: Multiplication.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Multiplication.Basic" start time: Mar 27 19:20 MSK
+"Multiplication.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -563,7 +563,7 @@ Note: Google Test filter = Multiplication.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Multiplication.Basic" end time: Mar 27 19:20 MSK
+"Multiplication.Basic" end time: Mar 27 19:23 MSK
 "Multiplication.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -571,7 +571,7 @@ Test Passed.
 22/53 Test: Multiplication.Large
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.Large" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Multiplication.Large" start time: Mar 27 19:20 MSK
+"Multiplication.Large" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -590,7 +590,7 @@ Note: Google Test filter = Multiplication.Large
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Multiplication.Large" end time: Mar 27 19:20 MSK
+"Multiplication.Large" end time: Mar 27 19:23 MSK
 "Multiplication.Large" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -598,7 +598,7 @@ Test Passed.
 23/53 Test: Multiplication.CompoundAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.CompoundAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Multiplication.CompoundAssignment" start time: Mar 27 19:20 MSK
+"Multiplication.CompoundAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -617,7 +617,7 @@ Note: Google Test filter = Multiplication.CompoundAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Multiplication.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Multiplication.CompoundAssignment" end time: Mar 27 19:23 MSK
 "Multiplication.CompoundAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -625,7 +625,7 @@ Test Passed.
 24/53 Test: Multiplication.ByZero
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.ByZero" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Multiplication.ByZero" start time: Mar 27 19:20 MSK
+"Multiplication.ByZero" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -644,7 +644,7 @@ Note: Google Test filter = Multiplication.ByZero
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Multiplication.ByZero" end time: Mar 27 19:20 MSK
+"Multiplication.ByZero" end time: Mar 27 19:23 MSK
 "Multiplication.ByZero" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -652,7 +652,7 @@ Test Passed.
 25/53 Test: Division.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Division.Basic" start time: Mar 27 19:20 MSK
+"Division.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -671,7 +671,7 @@ Note: Google Test filter = Division.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Division.Basic" end time: Mar 27 19:20 MSK
+"Division.Basic" end time: Mar 27 19:23 MSK
 "Division.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -679,7 +679,7 @@ Test Passed.
 26/53 Test: Division.Exact
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Exact" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Division.Exact" start time: Mar 27 19:20 MSK
+"Division.Exact" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -698,7 +698,7 @@ Note: Google Test filter = Division.Exact
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Division.Exact" end time: Mar 27 19:20 MSK
+"Division.Exact" end time: Mar 27 19:23 MSK
 "Division.Exact" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -706,7 +706,7 @@ Test Passed.
 27/53 Test: Division.Large
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Large" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Division.Large" start time: Mar 27 19:20 MSK
+"Division.Large" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -725,7 +725,7 @@ Note: Google Test filter = Division.Large
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Division.Large" end time: Mar 27 19:20 MSK
+"Division.Large" end time: Mar 27 19:23 MSK
 "Division.Large" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -733,7 +733,7 @@ Test Passed.
 28/53 Test: Division.ByOne
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.ByOne" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Division.ByOne" start time: Mar 27 19:20 MSK
+"Division.ByOne" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -752,7 +752,7 @@ Note: Google Test filter = Division.ByOne
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Division.ByOne" end time: Mar 27 19:20 MSK
+"Division.ByOne" end time: Mar 27 19:23 MSK
 "Division.ByOne" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -760,7 +760,7 @@ Test Passed.
 29/53 Test: Division.CompoundAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.CompoundAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Division.CompoundAssignment" start time: Mar 27 19:20 MSK
+"Division.CompoundAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -779,7 +779,7 @@ Note: Google Test filter = Division.CompoundAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Division.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Division.CompoundAssignment" end time: Mar 27 19:23 MSK
 "Division.CompoundAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -787,7 +787,7 @@ Test Passed.
 30/53 Test: Modulo.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Modulo.Basic" start time: Mar 27 19:20 MSK
+"Modulo.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -806,7 +806,7 @@ Note: Google Test filter = Modulo.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Modulo.Basic" end time: Mar 27 19:20 MSK
+"Modulo.Basic" end time: Mar 27 19:23 MSK
 "Modulo.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -814,7 +814,7 @@ Test Passed.
 31/53 Test: Modulo.DivisionConsistency
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.DivisionConsistency" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Modulo.DivisionConsistency" start time: Mar 27 19:20 MSK
+"Modulo.DivisionConsistency" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -833,7 +833,7 @@ Note: Google Test filter = Modulo.DivisionConsistency
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Modulo.DivisionConsistency" end time: Mar 27 19:20 MSK
+"Modulo.DivisionConsistency" end time: Mar 27 19:23 MSK
 "Modulo.DivisionConsistency" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -841,7 +841,7 @@ Test Passed.
 32/53 Test: Modulo.CompoundAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.CompoundAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Modulo.CompoundAssignment" start time: Mar 27 19:20 MSK
+"Modulo.CompoundAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -860,7 +860,7 @@ Note: Google Test filter = Modulo.CompoundAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Modulo.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Modulo.CompoundAssignment" end time: Mar 27 19:23 MSK
 "Modulo.CompoundAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -868,7 +868,7 @@ Test Passed.
 33/53 Test: UnaryMinus.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=UnaryMinus.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"UnaryMinus.Basic" start time: Mar 27 19:20 MSK
+"UnaryMinus.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -887,7 +887,7 @@ Note: Google Test filter = UnaryMinus.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"UnaryMinus.Basic" end time: Mar 27 19:20 MSK
+"UnaryMinus.Basic" end time: Mar 27 19:23 MSK
 "UnaryMinus.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -895,7 +895,7 @@ Test Passed.
 34/53 Test: UnaryMinus.Large
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=UnaryMinus.Large" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"UnaryMinus.Large" start time: Mar 27 19:20 MSK
+"UnaryMinus.Large" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -914,7 +914,7 @@ Note: Google Test filter = UnaryMinus.Large
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"UnaryMinus.Large" end time: Mar 27 19:20 MSK
+"UnaryMinus.Large" end time: Mar 27 19:23 MSK
 "UnaryMinus.Large" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -922,7 +922,7 @@ Test Passed.
 35/53 Test: Increment.Prefix
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Prefix" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Increment.Prefix" start time: Mar 27 19:20 MSK
+"Increment.Prefix" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -941,7 +941,7 @@ Note: Google Test filter = Increment.Prefix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Increment.Prefix" end time: Mar 27 19:20 MSK
+"Increment.Prefix" end time: Mar 27 19:23 MSK
 "Increment.Prefix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -949,7 +949,7 @@ Test Passed.
 36/53 Test: Increment.Postfix
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Postfix" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Increment.Postfix" start time: Mar 27 19:20 MSK
+"Increment.Postfix" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -968,7 +968,7 @@ Note: Google Test filter = Increment.Postfix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Increment.Postfix" end time: Mar 27 19:20 MSK
+"Increment.Postfix" end time: Mar 27 19:23 MSK
 "Increment.Postfix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -976,7 +976,7 @@ Test Passed.
 37/53 Test: Increment.AroundZero
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.AroundZero" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Increment.AroundZero" start time: Mar 27 19:20 MSK
+"Increment.AroundZero" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -995,7 +995,7 @@ Note: Google Test filter = Increment.AroundZero
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Increment.AroundZero" end time: Mar 27 19:20 MSK
+"Increment.AroundZero" end time: Mar 27 19:23 MSK
 "Increment.AroundZero" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1003,7 +1003,7 @@ Test Passed.
 38/53 Test: Increment.Carry
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Carry" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Increment.Carry" start time: Mar 27 19:20 MSK
+"Increment.Carry" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1022,7 +1022,7 @@ Note: Google Test filter = Increment.Carry
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Increment.Carry" end time: Mar 27 19:20 MSK
+"Increment.Carry" end time: Mar 27 19:23 MSK
 "Increment.Carry" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1030,7 +1030,7 @@ Test Passed.
 39/53 Test: Decrement.Prefix
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Prefix" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Decrement.Prefix" start time: Mar 27 19:20 MSK
+"Decrement.Prefix" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1049,7 +1049,7 @@ Note: Google Test filter = Decrement.Prefix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Decrement.Prefix" end time: Mar 27 19:20 MSK
+"Decrement.Prefix" end time: Mar 27 19:23 MSK
 "Decrement.Prefix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1057,7 +1057,7 @@ Test Passed.
 40/53 Test: Decrement.Postfix
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Postfix" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Decrement.Postfix" start time: Mar 27 19:20 MSK
+"Decrement.Postfix" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1076,7 +1076,7 @@ Note: Google Test filter = Decrement.Postfix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Decrement.Postfix" end time: Mar 27 19:20 MSK
+"Decrement.Postfix" end time: Mar 27 19:23 MSK
 "Decrement.Postfix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1084,7 @@ Test Passed.
 41/53 Test: Decrement.AroundZero
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.AroundZero" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Decrement.AroundZero" start time: Mar 27 19:20 MSK
+"Decrement.AroundZero" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1103,7 +1103,7 @@ Note: Google Test filter = Decrement.AroundZero
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Decrement.AroundZero" end time: Mar 27 19:20 MSK
+"Decrement.AroundZero" end time: Mar 27 19:23 MSK
 "Decrement.AroundZero" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1111,7 +1111,7 @@ Test Passed.
 42/53 Test: Decrement.Borrow
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Borrow" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"Decrement.Borrow" start time: Mar 27 19:20 MSK
+"Decrement.Borrow" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1130,7 +1130,7 @@ Note: Google Test filter = Decrement.Borrow
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"Decrement.Borrow" end time: Mar 27 19:20 MSK
+"Decrement.Borrow" end time: Mar 27 19:23 MSK
 "Decrement.Borrow" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1138,7 +1138,7 @@ Test Passed.
 43/53 Test: IO.Output
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.Output" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"IO.Output" start time: Mar 27 19:20 MSK
+"IO.Output" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1157,7 +1157,7 @@ Note: Google Test filter = IO.Output
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"IO.Output" end time: Mar 27 19:20 MSK
+"IO.Output" end time: Mar 27 19:23 MSK
 "IO.Output" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1165,7 +1165,7 @@ Test Passed.
 44/53 Test: IO.Input
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.Input" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"IO.Input" start time: Mar 27 19:20 MSK
+"IO.Input" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1184,7 +1184,7 @@ Note: Google Test filter = IO.Input
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"IO.Input" end time: Mar 27 19:20 MSK
+"IO.Input" end time: Mar 27 19:23 MSK
 "IO.Input" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1192,7 +1192,7 @@ Test Passed.
 45/53 Test: IO.InputLarge
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.InputLarge" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"IO.InputLarge" start time: Mar 27 19:20 MSK
+"IO.InputLarge" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1211,7 +1211,7 @@ Note: Google Test filter = IO.InputLarge
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"IO.InputLarge" end time: Mar 27 19:20 MSK
+"IO.InputLarge" end time: Mar 27 19:23 MSK
 "IO.InputLarge" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1219,7 +1219,7 @@ Test Passed.
 46/53 Test: IO.RoundTrip
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.RoundTrip" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"IO.RoundTrip" start time: Mar 27 19:20 MSK
+"IO.RoundTrip" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1238,7 +1238,7 @@ Note: Google Test filter = IO.RoundTrip
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"IO.RoundTrip" end time: Mar 27 19:20 MSK
+"IO.RoundTrip" end time: Mar 27 19:23 MSK
 "IO.RoundTrip" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1246,7 +1246,7 @@ Test Passed.
 47/53 Test: BoolConversion.Basic
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=BoolConversion.Basic" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"BoolConversion.Basic" start time: Mar 27 19:20 MSK
+"BoolConversion.Basic" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1265,7 +1265,7 @@ Note: Google Test filter = BoolConversion.Basic
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolConversion.Basic" end time: Mar 27 19:20 MSK
+"BoolConversion.Basic" end time: Mar 27 19:23 MSK
 "BoolConversion.Basic" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1273,7 +1273,7 @@ Test Passed.
 48/53 Test: EdgeCases.SelfAssignment
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfAssignment" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.SelfAssignment" start time: Mar 27 19:20 MSK
+"EdgeCases.SelfAssignment" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1292,7 +1292,7 @@ Note: Google Test filter = EdgeCases.SelfAssignment
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.SelfAssignment" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfAssignment" end time: Mar 27 19:23 MSK
 "EdgeCases.SelfAssignment" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1300,7 +1300,7 @@ Test Passed.
 49/53 Test: EdgeCases.SelfAddition
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfAddition" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.SelfAddition" start time: Mar 27 19:20 MSK
+"EdgeCases.SelfAddition" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1319,7 +1319,7 @@ Note: Google Test filter = EdgeCases.SelfAddition
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.SelfAddition" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfAddition" end time: Mar 27 19:23 MSK
 "EdgeCases.SelfAddition" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1327,7 +1327,7 @@ Test Passed.
 50/53 Test: EdgeCases.SelfMultiplication
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfMultiplication" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.SelfMultiplication" start time: Mar 27 19:20 MSK
+"EdgeCases.SelfMultiplication" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1346,7 +1346,7 @@ Note: Google Test filter = EdgeCases.SelfMultiplication
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.SelfMultiplication" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfMultiplication" end time: Mar 27 19:23 MSK
 "EdgeCases.SelfMultiplication" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1354,7 +1354,7 @@ Test Passed.
 51/53 Test: EdgeCases.SelfSubtraction
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfSubtraction" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.SelfSubtraction" start time: Mar 27 19:20 MSK
+"EdgeCases.SelfSubtraction" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1373,7 +1373,7 @@ Note: Google Test filter = EdgeCases.SelfSubtraction
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.SelfSubtraction" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfSubtraction" end time: Mar 27 19:23 MSK
 "EdgeCases.SelfSubtraction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1381,7 +1381,7 @@ Test Passed.
 52/53 Test: EdgeCases.ChainedOperations
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.ChainedOperations" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.ChainedOperations" start time: Mar 27 19:20 MSK
+"EdgeCases.ChainedOperations" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1400,7 +1400,7 @@ Note: Google Test filter = EdgeCases.ChainedOperations
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.ChainedOperations" end time: Mar 27 19:20 MSK
+"EdgeCases.ChainedOperations" end time: Mar 27 19:23 MSK
 "EdgeCases.ChainedOperations" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1408,7 +1408,7 @@ Test Passed.
 53/53 Test: EdgeCases.VeryLargeNumber
 Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.VeryLargeNumber" "--gtest_also_run_disabled_tests"
 Directory: /home/umar/laba/.git/lab_big_integer/build
-"EdgeCases.VeryLargeNumber" start time: Mar 27 19:20 MSK
+"EdgeCases.VeryLargeNumber" start time: Mar 27 19:23 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1427,8 +1427,8 @@ Note: Google Test filter = EdgeCases.VeryLargeNumber
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"EdgeCases.VeryLargeNumber" end time: Mar 27 19:20 MSK
+"EdgeCases.VeryLargeNumber" end time: Mar 27 19:23 MSK
 "EdgeCases.VeryLargeNumber" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Mar 27 19:20 MSK
+End testing: Mar 27 19:23 MSK
