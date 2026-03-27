@@ -64,8 +64,14 @@ public:
     friend std::istream& operator>>(std::istream& is, BigInteger& value);
 
 private:
-    std::vector<int> digits_;
-    bool negative_ = false;
-    void remove_leading_zeros();
-    static int abs_compare(const BigInteger& a, const BigInteger& b);
+    
+    void absSum(const BigInteger& other);
+    void absSub(const BigInteger& other);
+    void absMul(const BigInteger& other);
+    void absDiv(const BigInteger& other);
+    std::vector<int> digits_;  // digits (least significant first)
+    bool negative_ = false;    // true if the number is negative
+    long long mod(long long a, long long b) const;
+    BigInteger abs() const;
+
 };
