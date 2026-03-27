@@ -1,0 +1,1434 @@
+Start testing: Mar 27 19:20 MSK
+----------------------------------------------------------
+1/53 Testing: Constructor.Default
+1/53 Test: Constructor.Default
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.Default" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Constructor.Default" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constructor.Default
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constructor
+[ RUN      ] Constructor.Default
+[       OK ] Constructor.Default (0 ms)
+[----------] 1 test from Constructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Constructor.Default" end time: Mar 27 19:20 MSK
+"Constructor.Default" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/53 Testing: Constructor.FromInt
+2/53 Test: Constructor.FromInt
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromInt" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Constructor.FromInt" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constructor.FromInt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constructor
+[ RUN      ] Constructor.FromInt
+[       OK ] Constructor.FromInt (0 ms)
+[----------] 1 test from Constructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Constructor.FromInt" end time: Mar 27 19:20 MSK
+"Constructor.FromInt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/53 Testing: Constructor.FromLongLong
+3/53 Test: Constructor.FromLongLong
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromLongLong" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Constructor.FromLongLong" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constructor.FromLongLong
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constructor
+[ RUN      ] Constructor.FromLongLong
+[       OK ] Constructor.FromLongLong (0 ms)
+[----------] 1 test from Constructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Constructor.FromLongLong" end time: Mar 27 19:20 MSK
+"Constructor.FromLongLong" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/53 Testing: Constructor.FromString
+4/53 Test: Constructor.FromString
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.FromString" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Constructor.FromString" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constructor.FromString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constructor
+[ RUN      ] Constructor.FromString
+[       OK ] Constructor.FromString (0 ms)
+[----------] 1 test from Constructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Constructor.FromString" end time: Mar 27 19:20 MSK
+"Constructor.FromString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/53 Testing: Constructor.Copy
+5/53 Test: Constructor.Copy
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Constructor.Copy" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Constructor.Copy" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constructor.Copy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constructor
+[ RUN      ] Constructor.Copy
+[       OK ] Constructor.Copy (0 ms)
+[----------] 1 test from Constructor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Constructor.Copy" end time: Mar 27 19:20 MSK
+"Constructor.Copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/53 Testing: Comparison.Equal
+6/53 Test: Comparison.Equal
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.Equal" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.Equal" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.Equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.Equal
+[       OK ] Comparison.Equal (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.Equal" end time: Mar 27 19:20 MSK
+"Comparison.Equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/53 Testing: Comparison.NotEqual
+7/53 Test: Comparison.NotEqual
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.NotEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.NotEqual" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.NotEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.NotEqual
+[       OK ] Comparison.NotEqual (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.NotEqual" end time: Mar 27 19:20 MSK
+"Comparison.NotEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/53 Testing: Comparison.LessThan
+8/53 Test: Comparison.LessThan
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.LessThan" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.LessThan" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.LessThan
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.LessThan
+[       OK ] Comparison.LessThan (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.LessThan" end time: Mar 27 19:20 MSK
+"Comparison.LessThan" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/53 Testing: Comparison.GreaterThan
+9/53 Test: Comparison.GreaterThan
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.GreaterThan" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.GreaterThan" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.GreaterThan
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.GreaterThan
+[       OK ] Comparison.GreaterThan (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.GreaterThan" end time: Mar 27 19:20 MSK
+"Comparison.GreaterThan" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/53 Testing: Comparison.LessOrEqual
+10/53 Test: Comparison.LessOrEqual
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.LessOrEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.LessOrEqual" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.LessOrEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.LessOrEqual
+[       OK ] Comparison.LessOrEqual (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.LessOrEqual" end time: Mar 27 19:20 MSK
+"Comparison.LessOrEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/53 Testing: Comparison.GreaterOrEqual
+11/53 Test: Comparison.GreaterOrEqual
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.GreaterOrEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.GreaterOrEqual" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.GreaterOrEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.GreaterOrEqual
+[       OK ] Comparison.GreaterOrEqual (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.GreaterOrEqual" end time: Mar 27 19:20 MSK
+"Comparison.GreaterOrEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/53 Testing: Comparison.DifferentLengths
+12/53 Test: Comparison.DifferentLengths
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Comparison.DifferentLengths" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Comparison.DifferentLengths" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Comparison.DifferentLengths
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Comparison
+[ RUN      ] Comparison.DifferentLengths
+[       OK ] Comparison.DifferentLengths (0 ms)
+[----------] 1 test from Comparison (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Comparison.DifferentLengths" end time: Mar 27 19:20 MSK
+"Comparison.DifferentLengths" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/53 Testing: Addition.BasicPositive
+13/53 Test: Addition.BasicPositive
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.BasicPositive" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Addition.BasicPositive" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Addition.BasicPositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Addition
+[ RUN      ] Addition.BasicPositive
+[       OK ] Addition.BasicPositive (0 ms)
+[----------] 1 test from Addition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Addition.BasicPositive" end time: Mar 27 19:20 MSK
+"Addition.BasicPositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/53 Testing: Addition.WithNegatives
+14/53 Test: Addition.WithNegatives
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.WithNegatives" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Addition.WithNegatives" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Addition.WithNegatives
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Addition
+[ RUN      ] Addition.WithNegatives
+[       OK ] Addition.WithNegatives (0 ms)
+[----------] 1 test from Addition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Addition.WithNegatives" end time: Mar 27 19:20 MSK
+"Addition.WithNegatives" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/53 Testing: Addition.Large
+15/53 Test: Addition.Large
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.Large" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Addition.Large" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Addition.Large
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Addition
+[ RUN      ] Addition.Large
+[       OK ] Addition.Large (0 ms)
+[----------] 1 test from Addition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Addition.Large" end time: Mar 27 19:20 MSK
+"Addition.Large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/53 Testing: Addition.CompoundAssignment
+16/53 Test: Addition.CompoundAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Addition.CompoundAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Addition.CompoundAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Addition.CompoundAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Addition
+[ RUN      ] Addition.CompoundAssignment
+[       OK ] Addition.CompoundAssignment (0 ms)
+[----------] 1 test from Addition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Addition.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Addition.CompoundAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/53 Testing: Subtraction.Basic
+17/53 Test: Subtraction.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Subtraction.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Subtraction.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Subtraction
+[ RUN      ] Subtraction.Basic
+[       OK ] Subtraction.Basic (0 ms)
+[----------] 1 test from Subtraction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Subtraction.Basic" end time: Mar 27 19:20 MSK
+"Subtraction.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/53 Testing: Subtraction.WithNegatives
+18/53 Test: Subtraction.WithNegatives
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.WithNegatives" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Subtraction.WithNegatives" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Subtraction.WithNegatives
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Subtraction
+[ RUN      ] Subtraction.WithNegatives
+[       OK ] Subtraction.WithNegatives (0 ms)
+[----------] 1 test from Subtraction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Subtraction.WithNegatives" end time: Mar 27 19:20 MSK
+"Subtraction.WithNegatives" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/53 Testing: Subtraction.Large
+19/53 Test: Subtraction.Large
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.Large" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Subtraction.Large" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Subtraction.Large
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Subtraction
+[ RUN      ] Subtraction.Large
+[       OK ] Subtraction.Large (0 ms)
+[----------] 1 test from Subtraction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Subtraction.Large" end time: Mar 27 19:20 MSK
+"Subtraction.Large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/53 Testing: Subtraction.CompoundAssignment
+20/53 Test: Subtraction.CompoundAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Subtraction.CompoundAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Subtraction.CompoundAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Subtraction.CompoundAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Subtraction
+[ RUN      ] Subtraction.CompoundAssignment
+[       OK ] Subtraction.CompoundAssignment (0 ms)
+[----------] 1 test from Subtraction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Subtraction.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Subtraction.CompoundAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/53 Testing: Multiplication.Basic
+21/53 Test: Multiplication.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Multiplication.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Multiplication.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Multiplication
+[ RUN      ] Multiplication.Basic
+[       OK ] Multiplication.Basic (0 ms)
+[----------] 1 test from Multiplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Multiplication.Basic" end time: Mar 27 19:20 MSK
+"Multiplication.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/53 Testing: Multiplication.Large
+22/53 Test: Multiplication.Large
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.Large" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Multiplication.Large" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Multiplication.Large
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Multiplication
+[ RUN      ] Multiplication.Large
+[       OK ] Multiplication.Large (0 ms)
+[----------] 1 test from Multiplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Multiplication.Large" end time: Mar 27 19:20 MSK
+"Multiplication.Large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/53 Testing: Multiplication.CompoundAssignment
+23/53 Test: Multiplication.CompoundAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.CompoundAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Multiplication.CompoundAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Multiplication.CompoundAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Multiplication
+[ RUN      ] Multiplication.CompoundAssignment
+[       OK ] Multiplication.CompoundAssignment (0 ms)
+[----------] 1 test from Multiplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Multiplication.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Multiplication.CompoundAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/53 Testing: Multiplication.ByZero
+24/53 Test: Multiplication.ByZero
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Multiplication.ByZero" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Multiplication.ByZero" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Multiplication.ByZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Multiplication
+[ RUN      ] Multiplication.ByZero
+[       OK ] Multiplication.ByZero (0 ms)
+[----------] 1 test from Multiplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Multiplication.ByZero" end time: Mar 27 19:20 MSK
+"Multiplication.ByZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/53 Testing: Division.Basic
+25/53 Test: Division.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Division.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Division.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Division
+[ RUN      ] Division.Basic
+[       OK ] Division.Basic (0 ms)
+[----------] 1 test from Division (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Division.Basic" end time: Mar 27 19:20 MSK
+"Division.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/53 Testing: Division.Exact
+26/53 Test: Division.Exact
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Exact" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Division.Exact" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Division.Exact
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Division
+[ RUN      ] Division.Exact
+[       OK ] Division.Exact (0 ms)
+[----------] 1 test from Division (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Division.Exact" end time: Mar 27 19:20 MSK
+"Division.Exact" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/53 Testing: Division.Large
+27/53 Test: Division.Large
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.Large" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Division.Large" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Division.Large
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Division
+[ RUN      ] Division.Large
+[       OK ] Division.Large (0 ms)
+[----------] 1 test from Division (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Division.Large" end time: Mar 27 19:20 MSK
+"Division.Large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/53 Testing: Division.ByOne
+28/53 Test: Division.ByOne
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.ByOne" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Division.ByOne" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Division.ByOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Division
+[ RUN      ] Division.ByOne
+[       OK ] Division.ByOne (0 ms)
+[----------] 1 test from Division (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Division.ByOne" end time: Mar 27 19:20 MSK
+"Division.ByOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/53 Testing: Division.CompoundAssignment
+29/53 Test: Division.CompoundAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Division.CompoundAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Division.CompoundAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Division.CompoundAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Division
+[ RUN      ] Division.CompoundAssignment
+[       OK ] Division.CompoundAssignment (0 ms)
+[----------] 1 test from Division (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Division.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Division.CompoundAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/53 Testing: Modulo.Basic
+30/53 Test: Modulo.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Modulo.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Modulo.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Modulo
+[ RUN      ] Modulo.Basic
+[       OK ] Modulo.Basic (0 ms)
+[----------] 1 test from Modulo (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Modulo.Basic" end time: Mar 27 19:20 MSK
+"Modulo.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/53 Testing: Modulo.DivisionConsistency
+31/53 Test: Modulo.DivisionConsistency
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.DivisionConsistency" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Modulo.DivisionConsistency" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Modulo.DivisionConsistency
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Modulo
+[ RUN      ] Modulo.DivisionConsistency
+[       OK ] Modulo.DivisionConsistency (0 ms)
+[----------] 1 test from Modulo (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Modulo.DivisionConsistency" end time: Mar 27 19:20 MSK
+"Modulo.DivisionConsistency" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/53 Testing: Modulo.CompoundAssignment
+32/53 Test: Modulo.CompoundAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Modulo.CompoundAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Modulo.CompoundAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Modulo.CompoundAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Modulo
+[ RUN      ] Modulo.CompoundAssignment
+[       OK ] Modulo.CompoundAssignment (0 ms)
+[----------] 1 test from Modulo (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Modulo.CompoundAssignment" end time: Mar 27 19:20 MSK
+"Modulo.CompoundAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/53 Testing: UnaryMinus.Basic
+33/53 Test: UnaryMinus.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=UnaryMinus.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"UnaryMinus.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UnaryMinus.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnaryMinus
+[ RUN      ] UnaryMinus.Basic
+[       OK ] UnaryMinus.Basic (0 ms)
+[----------] 1 test from UnaryMinus (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"UnaryMinus.Basic" end time: Mar 27 19:20 MSK
+"UnaryMinus.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/53 Testing: UnaryMinus.Large
+34/53 Test: UnaryMinus.Large
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=UnaryMinus.Large" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"UnaryMinus.Large" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UnaryMinus.Large
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnaryMinus
+[ RUN      ] UnaryMinus.Large
+[       OK ] UnaryMinus.Large (0 ms)
+[----------] 1 test from UnaryMinus (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"UnaryMinus.Large" end time: Mar 27 19:20 MSK
+"UnaryMinus.Large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/53 Testing: Increment.Prefix
+35/53 Test: Increment.Prefix
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Prefix" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Increment.Prefix" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Increment.Prefix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Increment
+[ RUN      ] Increment.Prefix
+[       OK ] Increment.Prefix (0 ms)
+[----------] 1 test from Increment (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Increment.Prefix" end time: Mar 27 19:20 MSK
+"Increment.Prefix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/53 Testing: Increment.Postfix
+36/53 Test: Increment.Postfix
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Postfix" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Increment.Postfix" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Increment.Postfix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Increment
+[ RUN      ] Increment.Postfix
+[       OK ] Increment.Postfix (0 ms)
+[----------] 1 test from Increment (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Increment.Postfix" end time: Mar 27 19:20 MSK
+"Increment.Postfix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/53 Testing: Increment.AroundZero
+37/53 Test: Increment.AroundZero
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.AroundZero" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Increment.AroundZero" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Increment.AroundZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Increment
+[ RUN      ] Increment.AroundZero
+[       OK ] Increment.AroundZero (0 ms)
+[----------] 1 test from Increment (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Increment.AroundZero" end time: Mar 27 19:20 MSK
+"Increment.AroundZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/53 Testing: Increment.Carry
+38/53 Test: Increment.Carry
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Increment.Carry" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Increment.Carry" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Increment.Carry
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Increment
+[ RUN      ] Increment.Carry
+[       OK ] Increment.Carry (0 ms)
+[----------] 1 test from Increment (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Increment.Carry" end time: Mar 27 19:20 MSK
+"Increment.Carry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/53 Testing: Decrement.Prefix
+39/53 Test: Decrement.Prefix
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Prefix" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Decrement.Prefix" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Decrement.Prefix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decrement
+[ RUN      ] Decrement.Prefix
+[       OK ] Decrement.Prefix (0 ms)
+[----------] 1 test from Decrement (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Decrement.Prefix" end time: Mar 27 19:20 MSK
+"Decrement.Prefix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/53 Testing: Decrement.Postfix
+40/53 Test: Decrement.Postfix
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Postfix" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Decrement.Postfix" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Decrement.Postfix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decrement
+[ RUN      ] Decrement.Postfix
+[       OK ] Decrement.Postfix (0 ms)
+[----------] 1 test from Decrement (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Decrement.Postfix" end time: Mar 27 19:20 MSK
+"Decrement.Postfix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/53 Testing: Decrement.AroundZero
+41/53 Test: Decrement.AroundZero
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.AroundZero" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Decrement.AroundZero" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Decrement.AroundZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decrement
+[ RUN      ] Decrement.AroundZero
+[       OK ] Decrement.AroundZero (0 ms)
+[----------] 1 test from Decrement (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Decrement.AroundZero" end time: Mar 27 19:20 MSK
+"Decrement.AroundZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/53 Testing: Decrement.Borrow
+42/53 Test: Decrement.Borrow
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=Decrement.Borrow" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"Decrement.Borrow" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Decrement.Borrow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decrement
+[ RUN      ] Decrement.Borrow
+[       OK ] Decrement.Borrow (0 ms)
+[----------] 1 test from Decrement (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Decrement.Borrow" end time: Mar 27 19:20 MSK
+"Decrement.Borrow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/53 Testing: IO.Output
+43/53 Test: IO.Output
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.Output" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"IO.Output" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IO.Output
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IO
+[ RUN      ] IO.Output
+[       OK ] IO.Output (0 ms)
+[----------] 1 test from IO (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IO.Output" end time: Mar 27 19:20 MSK
+"IO.Output" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/53 Testing: IO.Input
+44/53 Test: IO.Input
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.Input" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"IO.Input" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IO.Input
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IO
+[ RUN      ] IO.Input
+[       OK ] IO.Input (0 ms)
+[----------] 1 test from IO (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IO.Input" end time: Mar 27 19:20 MSK
+"IO.Input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/53 Testing: IO.InputLarge
+45/53 Test: IO.InputLarge
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.InputLarge" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"IO.InputLarge" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IO.InputLarge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IO
+[ RUN      ] IO.InputLarge
+[       OK ] IO.InputLarge (0 ms)
+[----------] 1 test from IO (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IO.InputLarge" end time: Mar 27 19:20 MSK
+"IO.InputLarge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/53 Testing: IO.RoundTrip
+46/53 Test: IO.RoundTrip
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=IO.RoundTrip" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"IO.RoundTrip" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IO.RoundTrip
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IO
+[ RUN      ] IO.RoundTrip
+[       OK ] IO.RoundTrip (0 ms)
+[----------] 1 test from IO (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IO.RoundTrip" end time: Mar 27 19:20 MSK
+"IO.RoundTrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/53 Testing: BoolConversion.Basic
+47/53 Test: BoolConversion.Basic
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=BoolConversion.Basic" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"BoolConversion.Basic" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolConversion.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolConversion
+[ RUN      ] BoolConversion.Basic
+[       OK ] BoolConversion.Basic (0 ms)
+[----------] 1 test from BoolConversion (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BoolConversion.Basic" end time: Mar 27 19:20 MSK
+"BoolConversion.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/53 Testing: EdgeCases.SelfAssignment
+48/53 Test: EdgeCases.SelfAssignment
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfAssignment" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.SelfAssignment" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.SelfAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.SelfAssignment
+[       OK ] EdgeCases.SelfAssignment (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.SelfAssignment" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/53 Testing: EdgeCases.SelfAddition
+49/53 Test: EdgeCases.SelfAddition
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfAddition" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.SelfAddition" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.SelfAddition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.SelfAddition
+[       OK ] EdgeCases.SelfAddition (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.SelfAddition" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfAddition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/53 Testing: EdgeCases.SelfMultiplication
+50/53 Test: EdgeCases.SelfMultiplication
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfMultiplication" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.SelfMultiplication" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.SelfMultiplication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.SelfMultiplication
+[       OK ] EdgeCases.SelfMultiplication (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.SelfMultiplication" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfMultiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/53 Testing: EdgeCases.SelfSubtraction
+51/53 Test: EdgeCases.SelfSubtraction
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.SelfSubtraction" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.SelfSubtraction" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.SelfSubtraction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.SelfSubtraction
+[       OK ] EdgeCases.SelfSubtraction (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.SelfSubtraction" end time: Mar 27 19:20 MSK
+"EdgeCases.SelfSubtraction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/53 Testing: EdgeCases.ChainedOperations
+52/53 Test: EdgeCases.ChainedOperations
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.ChainedOperations" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.ChainedOperations" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.ChainedOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.ChainedOperations
+[       OK ] EdgeCases.ChainedOperations (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.ChainedOperations" end time: Mar 27 19:20 MSK
+"EdgeCases.ChainedOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/53 Testing: EdgeCases.VeryLargeNumber
+53/53 Test: EdgeCases.VeryLargeNumber
+Command: "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests" "--gtest_filter=EdgeCases.VeryLargeNumber" "--gtest_also_run_disabled_tests"
+Directory: /home/umar/laba/.git/lab_big_integer/build
+"EdgeCases.VeryLargeNumber" start time: Mar 27 19:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/umar/laba/.git/lab_big_integer/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EdgeCases.VeryLargeNumber
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCases
+[ RUN      ] EdgeCases.VeryLargeNumber
+[       OK ] EdgeCases.VeryLargeNumber (0 ms)
+[----------] 1 test from EdgeCases (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCases.VeryLargeNumber" end time: Mar 27 19:20 MSK
+"EdgeCases.VeryLargeNumber" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 27 19:20 MSK

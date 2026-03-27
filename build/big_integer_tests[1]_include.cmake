@@ -1,0 +1,5 @@
+if(EXISTS "/home/umar/laba/.git/lab_big_integer/build/big_integer_tests[1]_tests.cmake")
+  include("/home/umar/laba/.git/lab_big_integer/build/big_integer_tests[1]_tests.cmake")
+else()
+  add_test(big_integer_tests_NOT_BUILT big_integer_tests_NOT_BUILT)
+endif()
