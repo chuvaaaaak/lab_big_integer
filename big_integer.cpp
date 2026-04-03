@@ -17,10 +17,11 @@ BigInteger::BigInteger(long long value): negative_(value < 0){
         digits_.push_back(mod(value, 10));
         value /= 10;
     } while (value > 0);
+}
 BigInteger::BigInteger(): negative_(0){
     digits_.push_back(0);
 }
-}
+
 BigInteger::BigInteger(const std::string& str): negative_(false) {
     size_t start = 0;
     if (str[0] == '-' || str[0] == '+'){
