@@ -1,13 +1,7 @@
 #include "big_integer.h"
-#include <algorithm>
-#include <stdexcept>
 #include <utility>
-long long BigInteger::mod(long long a, long long b) const{
-    return ((a % b) + b) % b;
-}
-BigInteger::BigInteger(): negative_(0){
-    digits_.push_back(0);
-}
+#include <stdexcept>
+#include <algorithm>
 BigInteger::BigInteger(int value): negative_(value < 0){
     long long val = std::abs(static_cast<long long>(value));
     do {
@@ -15,12 +9,18 @@ BigInteger::BigInteger(int value): negative_(value < 0){
         val /= 10;
     } while (val > 0);
 }
+long long BigInteger::mod(long long a, long long b) const{
+    return ((a % b) + b) % b;
+}
 BigInteger::BigInteger(long long value): negative_(value < 0){
     value = std::abs(value);
     do {
         digits_.push_back(mod(value, 10));
         value /= 10;
     } while (value > 0);
+BigInteger::BigInteger(): negative_(0){
+    digits_.push_back(0);
+}
 }
 BigInteger::BigInteger(const std::string& str): negative_(false) {
     size_t start = 0;
@@ -35,10 +35,6 @@ BigInteger::BigInteger(const std::string& str): negative_(false) {
         digits_.push_back(str[i - 1] - '0');
     }
 }
-bool BigInteger::is_negative() const{
-    return negative_;
-}
-
 std::ostream& operator<<(std::ostream& os, const BigInteger& value){
     if (value.is_negative() && !value.is_zero()){
         os << '-';
@@ -66,6 +62,9 @@ std::istream& operator>>(std::istream& is, BigInteger& value){
         value.digits_.push_back(res[i - 1] - '0');
     }
     return is;
+}
+bool BigInteger::is_negative() const{
+    return negative_;
 }
 BigInteger BigInteger::operator-() const{
     BigInteger a = *this;
