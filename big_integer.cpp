@@ -1,6 +1,5 @@
 #include "big_integer.h"
 #include <utility>
-#include <stdexcept>
 #include <algorithm>
 BigInteger::BigInteger(int value): negative_(value < 0){
     long long val = std::abs(static_cast<long long>(value));
